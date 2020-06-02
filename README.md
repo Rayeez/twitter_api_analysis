@@ -66,6 +66,8 @@ The tasks for this project were:
 
 ## Files
 
+(Check the Report [here](https://rayeez.github.io/twitter_api_analysis/) )
+
 (Check the files here [here](https://github.com/Rayeez/twitter_api_analysis/) )
 
 ## Resources
