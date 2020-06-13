@@ -1,4 +1,4 @@
-# Wrangle and Analyze Data by Aditya Kumar
+# Wrangle and Analyze Data by Mohammed Rayeez
 
 _Data Analyst nanodegree - Udacity_
 
